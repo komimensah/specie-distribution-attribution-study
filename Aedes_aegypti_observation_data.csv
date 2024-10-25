@@ -1,0 +1,989 @@
+repository_name,search_string,taxon_key_id,taxon,scientific_name,species,kingdom,latitude,longitude,coordinate_precision_accuracy,observation_date,location_name,country,region,continent
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,12.212481,-68.276871,NA,03/12/2022,"Bonaire, Sint Eustatius and Saba, South_America",Netherlands Antilles,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,48.130001,7.849,NA,06/10/2023,"Germany, Europe",Germany,Western Europe,Europe
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,12.170414,-68.235404,NA,11/12/2022,"Bonaire, Sint Eustatius and Saba, South_America",Netherlands Antilles,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,53.628464,11.405329,NA,11/06/2023,"Germany, Europe",Germany,Western Europe,Europe
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,53.493183,9.319016,NA,31/05/2019,"Germany, Europe",Germany,Western Europe,Europe
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,0,0,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,0,0,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-2.1633,-79.96494,1.00E-05,01/01/1913,"Ecuador, South_America",Ecuador,South America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.663889,-61.516667,NA,05/08/1953,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-29.983333,30.966667,0.125,01/03/1915,"South Africa, Africa",South Africa,Southern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-29.766667,30.85,0.125,01/03/1915,"South Africa, Africa",South Africa,Southern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-29.983333,30.966667,0.125,01/07/1921,"South Africa, Africa",South Africa,Southern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-29.9,30.983333,0.125,01/03/1915,"South Africa, Africa",South Africa,Southern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.11333,-60.02528,1.00E-05,04/07/1934,"Brazil, South_America",Brazil,South America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.707411,-61.509592,NA,28/08/1955,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.305938,-61.175559,NA,26/02/1958,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.637366,-61.282276,NA,03/10/1956,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.707411,-61.509592,NA,28/08/1955,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,41.0639,-80.0567,NA,17/06/1995,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,41.0639,-80.0567,NA,17/06/1995,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,41.0639,-80.0567,NA,17/06/1995,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,27.76609,-82.67631,1.00E-05,12/08/1910,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,33.67357,130.45424,1.00E-05,29/05/1945,"Japan, Asia",Japan,Eastern Asia,Asia
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,41.0639,-80.0567,NA,17/06/1995,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,15.14499,120.5887,1.00E-05,1945-07-01/1945-07-31,"Philippines, Asia",Philippines,South-Eastern Asia,Asia
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,15.14499,120.5887,1.00E-05,1945-07-01/1945-07-31,"Philippines, Asia",Philippines,South-Eastern Asia,Asia
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.637366,-61.282276,NA,03/10/1956,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.305938,-61.175559,NA,19/03/1958,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.682511,-61.64468,NA,1962-07-01/1962-07-31,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.682511,-61.64468,NA,1962-07-01/1962-07-31,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.682511,-61.64468,NA,1962-07-01/1962-07-31,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.664638,-61.656786,NA,1962-10-04/1962-10-12,"Trinidad and Tobago, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,13.18886,-59.56821,1.00E-05,12/12/1905,"Barbados, North_America",Barbados,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,23.13194,-82.36417,1.00E-05,NA,"Cuba, North_America",Cuba,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,33.81818,-86.69628,1.00E-05,NA,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.305938,-61.175559,NA,30/10/1957,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,13.16667,-59.55,1.00E-05,12/08/1907,"Barbados, North_America",Barbados,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,13.16667,-59.55,1.00E-05,12/08/1907,"Barbados, North_America",Barbados,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,13.16667,-59.55,1.00E-05,12/08/1907,"Barbados, North_America",Barbados,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.663889,-61.516667,NA,08/04/1957,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,27.76609,-82.67631,1.00E-05,12/08/1910,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.663889,-61.516667,NA,08/04/1957,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,18.47116,-77.91883,1.00E-05,NA,"Jamaica, North_America",Jamaica,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.412174,-61.320933,NA,04/10/1954,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.664638,-61.656786,NA,1962-10-04/1962-10-12,"Trinidad and Tobago, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.664638,-61.656786,NA,1962-10-04/1962-10-12,"Trinidad and Tobago, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.664638,-61.656786,NA,1962-10-04/1962-10-12,"Trinidad and Tobago, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.305938,-61.175559,NA,19/03/1958,"Trinidad and Tobago, South_America",Trinidad and Tobago,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,10.664638,-61.656786,NA,1962-10-04/1962-10-12,"Trinidad and Tobago, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-35.266667,149.1,NA,01/08/1964,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-31.08333,152.8333,NA,10/06/1948,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.3,-97.75,NA,12/10/1977,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.3,-97.75,NA,12/10/1977,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-33.412954,149.597251,NA,25/06/1942,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.37,-97.72,NA,29/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,19/06/2017,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,07/04/2017,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,19/06/2017,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,26.151278,91.662712,NA,15/06/2013,"India, Asia",India,Southern Asia,Asia
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,25/05/2017,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,11/07/2017,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,29.587,-98.209,NA,01/10/2022,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,28/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.3,-97.75,NA,12/10/1977,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,14/03/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-34.28333,150.5833,NA,12/07/1942,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,29.587,-98.209,NA,01/10/2022,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,24/11/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,28/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,28/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.2837,-97.7541,NA,04/10/2020,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,51.635126,0.093803,NA,1799-01-01,"United Kingdom of Great Britain and Northern Ireland, Europe",U.K. of Great Britain and Northern Ireland,Northern Europe,Europe
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,29.28,-94.82,NA,15/11/1941,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.3,-97.75,NA,12/10/1977,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,28/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/08/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,27/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.37,-97.72,NA,29/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.37,-97.72,NA,29/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,18/09/2018,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.37,-97.72,NA,29/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.328,-97.754,NA,26/06/2016,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-12.48221,130.8286,1.00E-05,NA,"Australia, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-12.48221,130.8286,1.00E-05,NA,"Australia, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-12.48221,130.8286,1.00E-05,NA,"Australia, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,30.403,-97.9285,NA,04/09/2022,"United States of America, North_America",United States of America,Northern America,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/01/1923,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-27.47099,153.02427,1.00E-05,11/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/01/1923,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-27.47099,153.02427,1.00E-05,11/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-27.47099,153.02427,1.00E-05,11/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-27.47099,153.02427,1.00E-05,11/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/01/1923,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/01/1923,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1943,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,35.96,0.27,NA,01/09/1943,"Algeria, Africa",Algeria,Northern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1940,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1943,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1943,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1941,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1943,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,19,-72.42,NA,01/01/1939,"Haiti, North_America",Haiti,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,17.967203,-66.931831,NA,13/09/1936,"Puerto Rico, North_America",Puerto Rico,Caribbean,Americas
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,9.166,-1.166,0.001,01/10/1915,"Ghana, Africa",Ghana,Western Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-6.2,39.2,0.001,01/01/1916,"Tanzania, United Republic of, Africa",United Republic of Tanzania,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-25.3706,151.12257,1.00E-05,01/12/1922,"Australia, Oceania",Australia,Australia and New Zealand,Oceania
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-6.2,39.2,0.001,01/01/1916,"Tanzania, United Republic of, Africa",United Republic of Tanzania,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-6.2,39.2,0.001,01/01/1916,"Tanzania, United Republic of, Africa",United Republic of Tanzania,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,35.5922,0.06487,NA,22/08/1943,"Algeria, Africa",Algeria,Northern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,22/04/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,22/04/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,35.96,0.27,NA,09/10/1943,"Algeria, Africa",Algeria,Northern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,35.6813,-0.61416,NA,18/10/1943,"Algeria, Africa",Algeria,Northern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,16/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,09/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,22/04/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,16/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.93383,39.5586,NA,16/04/1975,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,35.5922,0.06487,NA,22/08/1943,"Algeria, Africa",Algeria,Northern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,23/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,23/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,23/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,16/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,-3.91426,39.5866,NA,23/03/1976,"Kenya, Africa",Kenya,Eastern Africa,Africa
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,12/10/1938,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1915,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,07/03/1969,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,15/11/1941,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,10/10/1941,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,29/10/1943,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,16/10/1944,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Australia, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,29/10/1943,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Malaysia, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,05/10/1956,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/04/1957,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Malaysia, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,10/10/1941,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,10/10/1941,"United States of America, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Guyana, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1924,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1908,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1908,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1908,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Samoa, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,30/06/1927,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,19/08/1926,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,27/09/2005,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,21/01/1921,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,13/04/1923,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,21/01/1921,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,20/06/1927,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,13/09/1926,"Philippines, Asia",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1987,"Mexico, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1934,"Papua New Guinea, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,03/10/1920,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"NA, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Vanuatu, Oceania",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Brazil, South_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Costa Rica, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,01/01/1998,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Panama, North_America",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"Venezuela (Bolivarian Republic of), Na",,,
+gbif,Aedes aegypti,1651891,,"Aedes aegypti (Linnaeus, 1762)",Aedes aegypti,Animalia,,,NA,NA,"United States of America, Na",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-9.956411667,-67.865975,23,25/10/2024,"Universidade Federal do Acre, Rio Branco, AC, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,16.88010279,-99.90218326,43,21/10/2024,"Parque el Veladero, Acapulco de Juárez, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,30.09296249,-97.95737781,,24/10/2024,"Texas, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,3.557847222,-76.49646389,,23/10/2024,"Br. Las Americas, Yumbo, Arroyo Hondo, Yumbo, Valle del Cauca, Colombia",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.956556505,-67.86490347,260,22/10/2024,UFAC,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,37.65991942,-121.8921558,204,13/10/2024,"Pleasanton, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,37.674803,-121.885445,1186,09/10/2024,"Pleasanton, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.23773889,-110.9551694,,22/10/2024,"North University, Tucson, AZ 85719, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,18.98006167,-99.48213333,8,22/10/2024,"Calle Juárez, San Sebastián, Edo. Méx., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.28706284,-97.73983527,25,22/10/2024,"The University of Texas at Austin, Austin, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,26.2315925,-98.2112162,185,10/10/2024,Emerald Point,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.75300333,-100.3157717,35,21/10/2024,"Colegio Americano Anáhuac, San Nicolás de los Garza, N.L., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.46891829,-100.3926404,2609373,21/10/2024,"Parque Nacional Cumbres de Monterrey, Santa Catarina, N.L., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.94972516,-47.10919362,32,22/10/2024,"Campinas, BR-SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,12.1036485,102.3521787,12461,22/10/2024,"ที่ว่าการอำเภอเกาะช้าง, อ.เกาะช้าง, Province de Trat, TH",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.920461667,-67.834695,8,22/10/2024,"Rua do Flamengo, Rio Branco, AC, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.75249228,-117.7877794,33,15/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.72882514,-117.7202957,33,09/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.71161779,-117.6541222,33,15/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.64273692,-117.682117,33,09/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.74561792,-117.7041999,33,15/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.70602924,-117.7065577,33,15/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.67041251,-117.7275541,33,09/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.65611716,-117.7862981,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.75982918,-117.6161632,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.66789677,-117.7903637,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.66140564,-117.6901581,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.64081261,-117.7441616,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.70784289,-117.6596334,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.66056774,-117.6492295,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.74954333,-117.6855202,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.72445601,-117.74989,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.75026551,-117.6782273,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.62383798,-117.6098257,33,15/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.62391601,-117.6557023,33,09/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.95665523,-67.86910475,6,21/10/2024,"Campus da Universidade Federal do Acre, Rio Branco - AC, 69911, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.68791449,-98.47110429,977,18/10/2024,"Timberwood Park, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.87788902,-77.00717907,27,20/10/2024,"Half St SE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,40.6781376,-73.94415803,11617,20/10/2024,"Brooklyn, NY 11216, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.26300095,-82.42804092,53,18/10/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08417217,-106.62033,35,19/10/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08511383,-106.61512,4,19/10/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.4438991,-100.8577914,,16/10/2024,"C4VR+HV, Las Glorias, 25354 Arteaga, Coah., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,37.373575,-79.23546333,,15/10/2024,"Lynchburg, VA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-33.34655392,18.86786766,2,16/10/2024,"Riebeeck West, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-25.48136406,-50.649991,10,16/10/2024,"Irati, PR, 84500-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,34.224275,-118.609025,3,12/10/2024,"Nevada Ave, Los Angeles, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.54487771,-121.3506889,7,15/10/2024,"Henley Park, Sacramento, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,6.632769394,-73.2222341,66,07/10/2024,"Barichara, Departamento de Santander, Kolumbien ",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,7.093287978,125.389103,197,20/09/2024,"39VQ+65 Jangga Highland Eco-Adventure Park, Tugbok, Davao City, Davao del Sur, Philippines",Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.80777833,-78.65321333,4,15/10/2024,"Cowper Dr, Raleigh, NC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-29.927949,-51.00942297,,15/10/2024,"Gravataí, RS, 94025, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,31.98722065,35.86665183,4477,12/10/2024,"XVP8+VMR, Amman, Jordan",Jordan,Western Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.75583611,-105.3387028,,14/10/2024,"Nayarit, MX",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,15.47845333,-88.0190195,,,"31 Calle SE, San Pedro Sula, Cortés, HN",Honduras,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,28.11152253,-82.72012758,5,12/10/2024,"Lake Front Dr, Palm Harbor, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,7.071469444,125.4956278,,08/10/2024,"Davao City, PH-DS, PH",Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,24.8090649,-107.3940117,10865,07/10/2024,"Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,12.8618797,77.76626878,692,11/10/2024,"Karnataka, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,39.1111,-77.17073,4,11/10/2024,"Thompson Dairy Way, Rockville, MD, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,3.418263333,-76.53695,20,11/10/2024,"Carrera 42, Cali, Valle del Cauca, CO",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,3.400923031,-76.55117655,8,11/10/2024,"La Cascada, Cali, Valle del Cauca, Colombia",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,17.62348498,-63.22770083,8,10/10/2024,"Saba, Saba, BQ",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.22989167,-106.6125333,,10/10/2024,"Corrales, NM, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,18.00600661,-76.75029282,5,10/10/2024,"264X+9WV, Kingston, Jamaica",Jamaica,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.92925334,-117.9574833,500,09/10/2024,"Walker Ave, La Habra, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.957622972,-67.86614697,,09/10/2024,"24RM+RM - Campus da Universidade Federal do Acre, Rio Branco - AC, 69917-400, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-23.59896672,-46.72013987,1800,09/10/2024,"Morumbi, São Paulo - State of São Paulo, 05621, Brazil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,30.28540833,-97.73623667,15,09/10/2024,"The University of Texas at Austin, Austin, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.8090649,-107.3940117,10865,04/10/2024,"Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.15835956,-98.59426271,46,07/10/2024,"43022 Hgo., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.08432783,-106.620505,38,08/10/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.95207871,-117.2638847,9,06/10/2024,"Moreno Valley, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,20.62159167,-87.10021117,13,08/10/2024,"Ejidal, Playa del Carmen, Q. Roo., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.8090649,-107.3940117,10865,04/10/2024,"Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,3.418221667,-76.53728667,24,07/10/2024,"Calle 9D, Cali, Valle del Cauca, CO",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.08420833,-106.620545,22,07/10/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.15669273,-117.1181885,7,07/10/2024,"San Diego County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,28.26323854,-105.4939619,2,06/10/2024,"33130 Pedro Meoqui, Chih., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,31.87181783,-116.6364957,136,05/10/2024,"Ampliacion Moderna, Ensenada, B.C., Mexico",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,19.23718833,-104.5593717,4,06/10/2024,"Calle Rigoleto, Cihuatlán, Jal., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.70131333,-103.4743633,11,30/09/2024,"Camino Arenero, Zapopan, Jal., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,17.42252559,78.55051195,5,06/10/2024,"Ranga Reddy, IN-TG, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.04158054,-118.4507211,1,05/10/2024,"Sawtelle, Los Angeles, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.18291258,-86.81367095,9,05/10/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.76689655,-97.50276406,,04/10/2024,"Texas, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-25.34292113,31.79554101,4,22/06/2024,"Marloth Park, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.20026578,-86.82446839,9,04/10/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,19.28385,-99.1204445,4,02/10/2024,"Calle Plan de Apatzingán, Xochimilco, CDMX, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.85132637,-117.5229169,19,29/09/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.81614167,-118.1582417,19,04/10/2024,"Long Beach Airport, Long Beach, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.75902599,-107.4642169,112,03/10/2024,"Manantial, 80140 Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.02822067,-118.281405,35,04/10/2024,"W 28th St, Los Angeles, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,7.327939152,125.6560176,2952,03/10/2024,Southern Davao,Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.16572232,-86.82222181,6,03/10/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,39.04401994,-77.00642557,21,26/09/2024,"Maryland, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.65109273,-117.7904626,33,02/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.77553429,-117.6189292,33,02/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.74628834,-117.6087679,33,02/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.62136922,-117.6857092,33,02/10/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.74540951,-117.7508168,33,02/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.75715982,-117.6863185,33,02/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.79310572,-117.6386807,23,02/10/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.813067,-97.254612,1,02/10/2024,Willowcrest Drive 76117,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,32.31158333,-106.7863167,3,02/10/2024,"W Hadley Ave, Las Cruces, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.5745547,-46.6207459,199,02/10/2024,"R. Mesquita, 67 - Vila Deodoro, São Paulo - SP, 01544-010, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.31298833,-106.8655083,35,02/10/2024,"Via Norte, Las Cruces, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,18.00290299,-76.74351229,25,02/10/2024,"The University of the West Indies At Mona Jamaica, Kingston, Surrey County, JM",Jamaica,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.94907,-117.1151722,35,01/10/2024,"La Tortola Ct, San Diego, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.93114785,-117.3026628,389,01/10/2024,"San Diego County, US-CA, US",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-29.81814063,30.92854596,96,01/10/2024,"Dawncrest, Westville, 3629, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.813277,-97.25463,1,01/10/2024,Willowcrest Drive 76117,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.84267551,100.4948329,10,29/09/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8984956,-117.5071862,,27/09/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.92248,-77.04313617,35,29/09/2024,"Columbia Rd NW, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,13.43810581,-16.52467753,,28/09/2024,,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.90442167,-77.00182222,25,29/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.898232,-82.41173185,75,29/09/2024,"Hillsborough County, US-FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.0796118,-117.8202989,3599,20/09/2024,"San Dimas, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-29.61061897,-51.16590097,,27/01/2024,"Harmonia, Ivoti - RS, 93900-000, Brazil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-18.588395,-46.51029167,13,28/09/2024,"Rua Eufrásio Rodrigues, Patos De Minas, MG, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.27625333,-97.81477167,17,24/09/2024,"Westlake High School, Austin, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.02160345,-102.1400706,20,27/09/2024,"St Andrews Dr, Midland, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.00527778,-47.87805556,,27/12/2022,"Jardim Sao Joao Batista, São Carlos - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.04293644,-89.66337737,515,25/09/2024,"Mérida, Yuc., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08396117,-106.6202,19,26/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,714362,Aedes epactius,NA,,NA,18.1714919,-93.00916328,85,17/09/2024,"007, Nacajuca, Tab., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-17.74056597,-149.3123156,4,20/05/2024,"Afaahiti, Taiarapu-Est, French Polynesia",French Polynesia,Polynesia,Oceania
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,31.89686185,-102.3782898,5,24/09/2024,"Odessa, TX 79762, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.85792232,-104.4339222,5,23/09/2024,"63990 Estancia de los López, Nay., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.957883,-67.86287797,,24/09/2024,"24RP+WM - Campus da Universidade Federal do Acre, Rio Branco - AC, 69917-400, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,26.02827009,-80.30356731,64,19/09/2024,"Hollywood, FL 33026, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.085075,-106.621795,45,24/09/2024,"Bernalillo County, US-NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.0840695,-106.6205367,10,23/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,28.14364267,-82.22489228,51,10/09/2024,"N US Highway 301, Thonotosassa, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08588333,-106.6206967,9,23/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.3962126,-82.54149127,70,18/09/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,37.25568969,-120.4931538,8,22/09/2024,"Merced County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.1062779,-45.0624898,,22/09/2024,"São Lourenço, MG, 37470-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,25.93285,-80.16318883,,19/09/2024,"NE 171st St, North Miami Beach, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.53670295,-99.65849598,125813,22/09/2024,"Abilene, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,130032,Culex pipiens,NA,,NA,1.36278555,22.9822652,2119610,21/09/2024,"Yahuma, CD",Democratic Republic of the Congo,Middle Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.54652743,-77.0521741,9828,21/09/2024,"Washington, NC, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.97453611,-118.1262389,,20/09/2024,"Commerce, CA 90040, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.62141123,-103.3993876,187,21/09/2024,"Calle Hacienda el Rosario, Torreón, Coah., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.90436667,-77.00184722,14,20/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.298050267,103.7761818,162,17/09/2024,"RVRC, Singapore",Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.10589287,-117.8169791,3219,20/09/2024,"San Dimas, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.81295333,-108.9630367,35,19/09/2024,"Universidad Autónoma de Occidente, Los Mochis, Sin., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,21.19464697,72.803469,,19/09/2024,"National Highway 228 Shakuntal Comlpex, Adajan Road B/s Sanghvi tower, Green Enclave, Adajan, Surat, Gujarat 395009, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.92679648,-76.96520225,6,18/09/2024,"Woodridge, Washington, DC 20018, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.08321383,-106.6229033,35,18/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,32.6460554,-16.93636995,31,18/09/2024,"Caminho Regedor, Nazaré, São Martinho, Funchal, Ilha Da Madeira, 9000-096 Funchal, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.49914336,-112.4756075,4,30/08/2024,"Yavapai County, US-AZ, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.909705,-97.90978833,15,18/09/2024,"Lily St, San Marcos, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08436667,-106.6209333,35,18/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.2902214,-97.73249092,4,17/09/2024,"Elmwood Pl, Austin, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-8.110749605,-78.99479516,5,10/05/2024,"13001, Trujillo 13100, Perú",Peru,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes,NA,-15.89612833,-47.77523833,35,17/09/2024,"Rua 25, Brasília, DF, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-Dengue,NA,39.647166,-8.292589,585,10/05/2024,"Olalhas, Portugal",Portugal,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.68988651,-121.3484449,2780,16/09/2024,"Hillsdale, Sacramento, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,14.60740333,-90.49268333,35,16/09/2024,"Bouganvilias de Cayalá, Ciudad de Guatemala, Guatemala, GT",Guatemala,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,-7.396616667,37.0017,,15/09/2024,"Kilosa, TZ-MO, TZ",United Republic of Tanzania,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,20.5155983,-87.2798336,,16/09/2024,"Solidaridad, Q.R., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,54.33524304,10.23238052,2119610,28/10/2023,"Hufenkamp, Schönkirchen, Schleswig-Holstein, DE",Germany,Western Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.2189698,-106.6158942,54,15/09/2024,"Corrales, NM, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08428617,-106.6205883,35,15/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08414167,-106.6205133,11,15/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,25.70743675,-80.24404314,34,14/09/2024,"Miami-Dade County, US-FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.65824781,-91.240233,5,11/09/2024,"San Pedro la Laguna, Guatemala",Guatemala,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,20.902395,-100.7476583,4,14/09/2024,"Guadiana, San Miguel de Allende, Gto., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.10557449,-106.6202189,19,14/09/2024,"Cutler Ave NE, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,7.071776772,125.6039298,5,14/09/2024,"3JC3+QM8, Poblacion District, Davao City, Davao del Sur, Philippines",Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.27103881,-100.8932444,5,06/09/2024,"40906 San Luis de la Loma, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08293617,-106.621995,15,13/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-3.719369311,-38.51727247,17,12/09/2024,"Fortaleza, BR-CE, BR",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08436117,-106.6204917,54,12/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.73211842,-16.7740088,9,12/09/2024,"Machico, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.62843501,-87.06554431,14190,11/09/2024,"Playa del Carmen 77710 zona federal, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,14.63898333,121.0757222,19,12/09/2024,"Ateneo De Manila University, Quezon City, Metro Manila, PH",Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.17562412,-118.4026545,114,11/09/2024,"Los Angeles County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-22.00346716,-47.88322985,21,09/09/2024,"São Carlos, SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.56148982,-103.3903585,11,10/09/2024,"Tuxpan, MX-JA, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08412217,-106.6209867,61,10/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.853795,-80.19413,,09/09/2024,"NE 86th St, El Portal, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-15.81832742,-47.98326518,1644,06/09/2024,"QE 05 CJ C LT 04 - Guará I QE 4 - Guará, Brasília - DF, 71010-005, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,28.77970249,-81.35517743,,11/08/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,13.89074969,-16.38553731,5304,28/08/2024,"Foundiougne, SN",Senegal,Western Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.7635156,-103.4295987,,07/09/2024,"Villas de Nuevo México, Nuevo México, 45134 Nuevo México, Jal., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.89573681,-96.92281332,9,07/09/2024,"San Pedro, Córdoba, Ver., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.87626938,-117.2459026,5,07/09/2024,"La Jolla Farms, San Diego, CA 92037, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.90192817,-117.4948995,2886,07/09/2024,"La Sierra, Riverside, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,18.86413333,-96.95597833,18,06/09/2024,"Calle Hermanos Serdán, Veinte de Noviembre, Ver., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08412217,-106.62047,16,06/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,18.98014167,-99.48213833,4,05/09/2024,"Calle Juárez, San Sebastián, Edo. Méx., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-15.76315622,-47.87063118,3302,29/06/2023,"UnB - Brasília, DF, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.51938364,-117.1381512,20994,05/09/2024,"La Sierra Rd, Temecula, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Komar egipski,NA,19.36496722,-98.41071306,,05/09/2024,"90130 Tlaxcala, Meksyk",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,7.064901909,125.5931692,48,05/09/2024,"Mindanao, Davao City, Davao Del Sur, PH",Philippines,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.52210118,-100.3880615,4,02/09/2024,"Fraccionamiento Vista Real, Corregidora, Qro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90443,-77.00183055,21,04/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.98879997,-117.378808,,01/09/2024,"Downtown Riverside, Riverside, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08426667,-106.6202783,7,04/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.90443,-77.00183055,21,04/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.90442891,-77.00182923,21,04/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.904475,-77.00180833,22,04/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90443,-77.00183055,21,04/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.0842695,-106.6205583,35,03/09/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,25.77864183,-80.24851312,4,03/09/2024,United States,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.03486058,-100.7203674,,03/09/2024,"Zona Centro, Acámbaro, Gto., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90440833,-77.00173888,15,03/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.23786561,-111.3219868,22,02/09/2024,"Tonto National Forest, Payson, AZ, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,埃及斑蚊 (埃及伊蚊),NA,22.599148,120.339691,321,02/09/2024,"Kaohsiung, TW-KH, TW",Taiwan,Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.24178501,-111.314962,22,02/09/2024,"Tonto National Forest, Payson, AZ, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90443,-77.00183055,22,02/09/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-17.74198611,177.1468972,5,29/07/2024,"Nadroga-Navosa, Fiji",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.663795,-105.2158367,12,30/08/2024,"Calle Mariano Abasolo, Puerto Vallarta, Jal., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.6688937,-111.4236172,,02/09/2024,"Eloy, AZ 85131, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-16.6541012,-49.3369564,,01/09/2024,"Parque Industrial Paulista, Goiânia - GO, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,28.73477919,-81.35564562,110,01/09/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.95992833,-77.0768055,4,01/09/2024,"Jocelyn St NW, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.29458137,-106.5866265,15,30/08/2024,"Rivers Edge, Rio Rancho, NM, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,20.64794758,-101.3355044,5,31/08/2024,"Irapuato, Gto., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.898477,-117.5071701,,30/08/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,19.96570206,-100.7069168,,30/08/2024,"Acámbaro, Gto., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,19.9656925,-100.7070084,,30/08/2024,"Acámbaro, Gto., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,19.96555328,-100.7067184,,30/08/2024,"Acámbaro, Guanajuato, Mexico",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.7294563,-101.29019,100,29/08/2024,"Michoacán, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08407217,-106.62027,49,30/08/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,37.36454834,-120.4378212,5,30/08/2024,"Merced County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.5716507,-99.39330284,5,30/08/2024,"Adolfo López Mateos, Adolfo Lopez Mateos, Tixtla de Guerrero, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.86806145,-105.1569482,6,30/08/2024,"63736 El Colomo, Nay., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.6451457,-98.4732718,6231,29/08/2024,"San Antonio, TX 78258, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.97693333,-118.4218533,15,29/08/2024,"Beethoven St, Los Angeles, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.57134449,-99.39398143,5,28/08/2024,"San Lucas, Tixtla de Guerrero, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.848718459,-56.08278841,6,28/08/2024,"Nw - I, Alta Floresta - MT, 78580-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,9.091741205,-79.43073995,,27/08/2024,Panama,Panama,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.08423333,-106.6201783,5,28/08/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90443,-77.00183055,22,28/08/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.60663862,-100.381373,618,15/07/2024,"Alamos 2da Secc, 76160 Santiago de Querétaro, Qro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90443,-77.00183055,22,28/08/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-19.26079014,146.7715728,1365,20/07/2024,"Townsville QLD, Australia",Australia,Australia and New Zealand,Oceania
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-19.26079014,146.7715728,1365,20/07/2024,"Townsville QLD, Australia",Australia,Australia and New Zealand,Oceania
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,25.97752257,-80.33241548,432,28/08/2024,"Miami Gardens, FL 33015, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.16498617,-106.6731417,5,27/08/2024,"Open Space Visitor Center, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90446219,-77.0018328,67,27/08/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,43.52380793,1.17177562,7,27/08/2024,"31470 Saint-Lys, France",France,Western Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.16159459,-86.84125008,8,26/08/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.08609444,-106.6229639,,26/08/2024,"Dane Smith Hall, Albuquerque, NM 87106, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedini,NA,-15.76959914,-47.86762811,5,16/12/2022,"UnB Núcleo de Medicina Tropical - Brasília, DF, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.2174445,-110.8045458,,26/08/2024,"Estes Park, Tucson, AZ 85710, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.88711944,-77.0057,,16/08/2024,"Capitol Hill, Washington, DC, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.26888056,-97.69929444,,26/08/2024,"Govalle, Austin, TX 78702, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.79741556,-104.0436582,547,11/08/2024,"Peñón Blanco, Dgo., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.68777367,-101.1650378,22,25/08/2024,"Calle Gobernador Adolfo Cano, Morelia, Mich., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.85534167,-118.1880417,4,25/08/2024,"E Louise St, Long Beach, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.92645173,-76.96524925,7,24/08/2024,"Woodridge, Washington, DC 20018, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,32.83233422,-117.2148483,12,24/08/2024,"Lake Forest Ave, San Diego, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.34253712,-106.3957446,120,24/08/2024,"Placitas, NM 87043, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.91213643,100.5146165,10,24/08/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-22.81569167,-47.07852217,10,23/08/2024,"Rua Francisco Humberto Zuppi, Campinas, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.34571699,-108.7160099,6,23/08/2024,"Lordsburg, NM 88045, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,20.90236667,-100.74762,12,23/08/2024,"Guadiana, San Miguel de Allende, Gto., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.82959603,-117.8573512,4,23/08/2024,"California, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,21.33249779,77.45746896,3205,21/08/2024,"Achalpur, Maharashtra, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,19/08/2024,"La Paz, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,17.1045519,-96.7139626,,22/08/2024,"Privada de Río Escondido 103-1 san felipe del agua, Agencia Municipal de San Felipe del Agua, 68026 Oaxaca de Juárez, Oax., Mexico",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-4.658846351,39.3701271,737,22/08/2024,"Barawa 1, Wasini, Kenya",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-8.636779785,115.1400604,35,22/08/2024,Kabupaten Badung,Indonesia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.16463351,-86.82270205,6,21/08/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90439667,-77.00171667,45,21/08/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.67148997,-97.361518,,20/08/2024,"Corpus Christi, TX 78414, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-30.31444824,30.66618316,10,24/01/2023,"Ugu, ZA-NL, ZA",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.85254023,-118.1940506,104,21/08/2024,"E 53rd St, Long Beach, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-29.87165657,29.10585632,20327,21/02/2024,"Sehlabathebe National Park, Qacha’s Nek, LS",Lesotho,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.16212391,-86.8405179,9,20/08/2024,"Benito Juárez, MX-QR, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,12.7655,100.9254,4,20/08/2024,"ซอย เจริญศิลป์, สัตหีบ, จ.ชลบุรี, TH",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Komar egipski,NA,32.6420454,-16.830736,23,21/08/2024,"9125-028 Caniço, Portugalia",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,30.42909366,-107.9419402,3906,15/08/2024,"Casas Grandes, Chih., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.89266667,-117.7968667,4,20/08/2024,"Countrywood Dr, Yorba Linda, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,184884,Pterygota,NA,Winged and Once-winged Insects,NA,-2.96608,-60.7374,5,10/07/2024,"Iranduba, BR-AM, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.55994115,-103.3890852,46,19/08/2024,"49814 Jal., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,33.035321,-96.7280318,195,25/07/2024,"Papeete Dr, Plano, TX 75075, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8983893,-117.5071767,,17/08/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.27740189,-98.41241882,8,30/07/2024,"Johnson City, TX 78636, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90440833,-77.00182222,28,18/08/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.17432444,-86.8209821,9,18/08/2024,"Mercado Donceles, 77524 Cancún, Q.R., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.9717409,-117.1343233,,17/08/2024,"Rancho Peñasquitos, San Diego, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,28.26332073,-105.493867,2,16/08/2024,"33130 Pedro Meoqui, Chih., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.853695,-80.19414167,,17/08/2024,"NE 86th St, El Portal, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.40188833,-118.5443333,14,17/08/2024,"Almendra Dr, Santa Clarita, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.20709444,-97.15341944,,21/06/2024,"Denton, TX 76203, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,47.07605171,15.40453289,65,16/08/2024,"Wohnquartier St. Vinzenz, 8020 Graz, Austria",Austria,Western Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-23.54363833,-46.66303833,35,16/08/2024,"Rua Barão de Bocaina, São Paulo, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.08528471,-117.9608978,2938,16/08/2024,"Baldwin Park, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.0820195,-106.6232083,14,15/08/2024,"The University of New Mexico, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,21.03121258,-89.54517628,,17/10/2023,"97305 Cholul, Yuc., Mexico",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,12.64451111,101.633525,,15/08/2024,JJVM+PCH ตำบล กร่ำ อำเภอแกลง ระยอง 21190 ประเทศไทย,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.37160765,-81.40672532,27,14/08/2024,"North Beach, Jacksonville, FL, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.30448035,-81.62723568,5,07/08/2024,"Mayfair Village, Jacksonville, FL 32207, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,16.73745297,-92.631989,,07/08/2024,"Barrio de Guadalupe, San Cristóbal de las Casas, Chis., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,20.7634013,-105.3706534,4,09/08/2024,"63734 La Cruz de Huanacaxtle, Nayarit, Mexico",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,17.57133922,-99.393948,2,12/08/2024,"San Lucas, Tixtla de Guerrero, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.57122373,-99.39398473,2,12/08/2024,"San Lucas, Tixtla de Guerrero, Gro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.37548611,-104.7230639,,13/08/2024,"63835 La Labor, Nay., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,комар жёлтой лихорадки,NA,54.59323415,83.27576268,690,12/08/2024,"Новосибирская обл., Россия, 633208",Russian Federation,Eastern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.30449193,-81.6273376,5,13/08/2024,"St. Nicholas, Jacksonville, FL 32207, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.88555079,-81.31380994,842,10/08/2024,"Lincolnville, St. Augustine, FL 32084, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.06358349,-118.0106784,4,10/08/2024,"Los Angeles County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.12167301,-106.5712683,296,10/08/2024,"Mossman, Albuquerque, NM 87110, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.2006383,-86.8220269,28,09/08/2024,"Jardines de Bonampak, 77528 Cancún, Q.R., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,19.09411037,-101.5227598,224,09/08/2024,"61682 Puruarán, Mich., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,19.09406981,-101.5221965,71,09/08/2024,"61682 Puruarán, Mich., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.94212228,100.569684,10,09/08/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,26.49802078,-81.81114441,18,09/08/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,31.74671933,-106.4423675,,09/08/2024,"Edificio T, Alfa, 32310 Juárez, Chih., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.94463611,-118.3598028,,09/08/2024,"Lennox, CA 90304, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,19.125175,73.01434444,,08/08/2024,"101, Building 6, Sector-3, Millennium Business Park, Mahape, Reliance Corporate Park, MIDC Industrial Area, Ghansoli, Navi Mumbai, Maharashtra 400701, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-Dengue,NA,-23.5557714,-46.6395571,35697,08/08/2024,"São Paulo, SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,06/08/2024,"24050, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.43112944,-117.3154449,,08/08/2024,"Hesperia, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.00527778,-47.87805556,,27/12/2022,"Jardim Sao Joao Batista, São Carlos - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.30448498,-81.62727055,5,07/08/2024,"St. Nicholas, Jacksonville, FL 32207, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,13.52753,-89.302505,4,07/08/2024,"Carretera a La Libertad, La Libertad, La Libertad, SV",El Salvador,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.633075,-117.6381833,5,07/08/2024,"Labrusca, Mission Viejo, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.53064609,-103.5211434,61,06/08/2024,"Unidos Venceremos, Lerdo, Dgo., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.87958065,-102.3032311,235,06/08/2024,"Barrio de San Marcos, Aguascalientes, Ags., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.676725,-101.211627,,06/08/2024,"Vista Hermosa, Morelia, Mich., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,10.4677637,-84.66594692,6,06/08/2024,"San Carlos, CR-AL, CR",Costa Rica,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,22.29541667,70.76329667,53,06/08/2024,"Nivedita Nagar, Rajkot, GJ, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8985044,-117.5071472,,05/08/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.790515,-95.40179167,,06/08/2024,"Greater Heights, Houston, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,25/07/2024,"24050, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.00651995,-117.2763331,39,05/08/2024,"San Bernardino County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,21.24367167,-86.80523,48,05/08/2024,"Isla Mujeres, Q. Roo., MX",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,10.26426097,76.42795432,20,04/08/2024,"7C7G+HV, Ayyampuzha, Kerala 683576, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,12.7760973,100.9394465,7,26/06/2024,"สถาบันการจัดการปัญญาภิวัฒน์ วิทยาเขตอีอีซี, สัตหีบ, จ.ชลบุรี, TH",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.05801392,-106.5228958,35,05/08/2024,Albuquerque,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,9.02496096,-79.52004904,,04/08/2024,Panama,Panama,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,26.31562781,-98.36991949,948,04/08/2024,"Texas, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,0.395633333,109.94655,,04/08/2024,"Hilir Ktr., Kec. Ngabang, Kabupaten Landak, Kalimantan Barat, Indonesia",Indonesia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.79123099,-95.40217036,2,04/08/2024,"Greater Heights, Houston, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.79129926,-95.40213686,15,04/08/2024,"Greater Heights, Houston, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.64696386,-16.9386629,6,03/08/2024,"Rotunda D Teodoro Faria, 9000 Funchal, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,43.47299309,-80.49987436,37,03/08/2024,"Bridgeport Rd E, Waterloo, ON, CA",Canada,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,35.0781445,-106.618805,40,03/08/2024,"Stanford Dr SE, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.06695175,-117.7901001,,03/08/2024,Pomona,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.898562,-117.5073029,,31/07/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8985481,-117.5073082,,31/07/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8985637,-117.5073054,,31/07/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.7993251,-107.4217373,,24/07/2024,"80100 Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.81053576,-107.441338,61,30/07/2024,"Bacurimi, Culiacán, Sinaloa, México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.22688927,-110.9654421,35,31/07/2024,"N Fourth Ave, Tucson, AZ, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8984039,-117.5072315,,30/07/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-20.50011947,-54.61188342,5,30/07/2024,"Vila Olinda, Campo Grande - MS, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.27738947,-98.41209262,15,28/07/2024,"Johnson City, TX 78636, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,34.09644727,-117.8066151,3906,29/07/2024,"San Dimas, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-20.50026111,-54.61123902,5,30/07/2024,"Vila Olinda, Campo Grande - MS, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.1939137,-106.6922462,,30/07/2024,"Paradise Hills Civic, Rio Rancho, NM, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,12.05080623,-86.20654261,2,29/07/2024,"Ticuantepe, Nicaragua",Nicaragua,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-30.98564658,30.27422793,9,29/07/2024,"Palm Beach, Port Edward, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.2175191,-110.8044294,,29/07/2024,"Estes Park, Tucson, AZ 85710, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-12.13477949,-77.18717221,2,28/07/2024,Peru,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.57705778,-96.92099829,15,16/07/2024,"Lucas Martin, Xalapa-Enríquez, Ver., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.57639026,-96.91997359,15,16/07/2024,"Lucas Martin, Xalapa-Enríquez, Ver., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.57639803,-96.91997766,15,16/07/2024,"Lucas Martin, Xalapa-Enríquez, Ver., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.64336509,-16.85196844,4,28/07/2024,"Caniço, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,38.90445333,-77.00169445,13,28/07/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes,NA,1.359470761,103.8853223,227,28/07/2024,"Hougang, Singapore",Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.27742633,-98.41210327,8,23/07/2024,"Johnson City, TX 78636, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.5306585,-103.5212165,61,26/07/2024,"Unidos Venceremos, Lerdo, Dgo., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-25.92745,-53.48447833,20,02/04/2024,"Rua Projetada E, Ampére, PR, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.42489082,-45.46001393,209,02/03/2024,"Morro Chic, Itajubá - MG, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,52134,Culicidae,NA,,NA,11.06389476,108.4231536,1324,26/07/2024,"Hòa Thắng, Tp. Phan Thiết, Bình Thuận, Việt Nam",Vietnam,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,10.50109626,107.4711367,27,,"Khu Bảo Tồn Thiên Nhiên Bình Châu Phước Bửu, H. Xuyên Mộc, Bà Rịa-Vũng Tàu, VN",Vietnam,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,62989,Aedes,NA,Aedes,NA,10.54947273,107.48407,222,,"GFXM+RJQ, Bưng Riềng, Xuyên Mộc, Bà Rịa - Vũng Tàu, Việt Nam",Vietnam,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.90451259,-77.00194242,111,26/07/2024,"Third St NE, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.94686956,-96.53381035,8,25/07/2024,"Rowlett, TX 75089, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,20.03479767,-100.7203674,,25/07/2024,"Zona Centro, Acámbaro, Gto., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-1.224176383,36.89698789,8,24/07/2024,"Kasarani, Nairobi, Kenya",Kenya,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,10.46338333,-66.83009014,46,23/07/2024,"F579+GQ8, Caracas 1061, Miranda, Venezuela",Venezuela,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.79927838,-107.4218425,17,24/07/2024,"Congreso del Estado, Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.27638626,-111.858757,76,23/07/2024,Chandler,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.671347,-97.36153,,13/07/2024,"Corpus Christi, TX 78414, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,16.23473684,-92.13395409,5755,20/07/2024,"Belisario Domínguez Primera Secc, 30040 Comitán de Domínguez, Chis., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,31.74655914,-106.4423294,,22/07/2024,"Edificio T, Alfa, 32310 Juárez, Chih., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,11.42329722,107.4305167,,22/07/2024,"CCFJ+2CP, Nam Cát Tiên, Tân Phú, Đồng Nai, Việt Nam",Vietnam,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,11.69031545,107.3612298,16843,22/07/2024,Cát Tiên,Vietnam,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-22.9521,-43.17222,25,21/07/2024,"Avenida Pasteur, Rio de Janeiro, RJ, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,комар жёлтой лихорадки,NA,25.80364836,-80.12674134,23,21/07/2024,"Collins Ave, Майами-Бич, FL, US",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.80967214,-117.0147396,1,21/07/2024,"Lake Murray, San Diego, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.306631804,103.9147985,212,11/07/2024,Marine Terrace MRT Station (TE27),Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.306631804,103.9147985,212,17/07/2024,"Marine Terrace, Singapore",Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,23.87715167,-106.3219017,,14/07/2024,"82909 San Juan, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,23.87738,-106.3217317,,14/07/2024,"82909 San Juan, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,23.87728333,-106.32196,,14/07/2024,"82909 San Juan, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.67681597,-101.21171,,19/07/2024,"Vista Hermosa, Morelia, Mich., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,28.17827415,-80.65974426,35,19/07/2024,Melbourne,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.52218996,-100.4378594,24,18/07/2024,"Calle Venustiano Carranza, El Pueblito, Qro., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,47170,Fungi,NA,Mold,NA,40.81554667,-111.95417,4,17/07/2024,"N 2200 W, Salt Lake City, UT, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.59699819,-103.4268799,,17/07/2024,"La Florida, Zapopan, Jal., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,22.22137393,-105.3299894,,11/07/2024,"Francisco Villa, 63633 Francisco Villa, Nay., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.52423521,-100.443732,2,15/07/2024,"Sta Barbara 1ra Secc, El Pueblito, Qro., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.17693134,-106.4349761,130,10/07/2024,"New Mexico, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.83507557,100.4812279,10,15/07/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-8.627304636,115.1717816,211,15/07/2024,Jalan Tegal Luwih IV,Indonesia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.0789945,-106.626045,5,14/07/2024,"Silver Ave SE, Albuquerque, NM, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.92769934,-77.04348226,10,13/07/2024,"District of Columbia, District of Columbia County, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.36107,-82.54731667,6,13/07/2024,"Ringling College of Art and Design, Sarasota, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,14.50488833,100.2495717,10,11/07/2024,"อท. 4022, อ.วิเศษชัยชาญ, จ.อ่างทอง, TH",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,28.54210693,77.24969566,27,13/07/2024,"Pocket 40, Chittaranjan Park, New Delhi, Delhi 110019, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.95148611,100.5231191,10,13/07/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-33.69688832,25.81700579,2,25/05/2024,"Colchester, Gqeberha, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.63921928,-100.2073135,,13/05/2024,"Bosques del Rey, Guadalupe, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.983574,-89.69057597,,10/07/2024,"Cd Caucel, 97314 Mérida, Yuc., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-9.381946667,-35.83591167,35,09/07/2024,"Quadra Vinte e tres, Messias, AL, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.94381898,-117.1256775,5,11/07/2024,"Salmon River Rd, San Diego, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,5.396857172,-3.987950608,6,06/07/2024,"7ème TRANCHE, Abidjan, Costa de Marfil",Côte d'Ivoire,Western Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.28367167,-82.13688617,14,10/07/2024,"Eagle Dr, Macclenny, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.98680933,-118.385825,50,09/07/2024,"Fox Hills, Culver City, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,9.6356073,-85.1576765,26,09/07/2024,"JRPR+4X5, Provincia de Puntarenas, Puntarenas, Carmen, Costa Rica",Costa Rica,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,10.64142778,-61.40080278,,09/07/2024,"JHRX+HPF, Trinidad and Tobago",Trinidad and Tobago,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-1.020226541,-48.96622237,6,07/07/2024,"Cachoeira do Arari - PA, 68840-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,19.01779821,72.8478118,1984,07/07/2024,Dadar,India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,9.264545,76.77145333,200,06/07/2024,"Mannaramala, Pathanamthitta, KL, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.31928611,-98.67725278,56,30/06/2024,"Hebbronville, TX 78361, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.88125894,100.4070419,10,05/07/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8985336,-117.5071941,,03/07/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.41020323,-106.6093919,2451,28/06/2024,"Los Arroyos, 80700 Cosalá, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.72298833,-117.2309417,4,03/04/2024,"Rosecrans St, San Diego, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-18.58835058,-46.51031514,12,22/03/2024,"Rua Eufrásio Rodrigues, Patos De Minas, MG, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,18.64499167,73.77329167,5,04/07/2024,"Kranti Sinha Nana Patil Road, Pimpri Chinchwad, MH, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.32731516,-82.53959477,7819,01/07/2024,"Baypoint Park, Sarasota, FL, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,-12.12481462,-77.1413391,2,24/03/2024,Peru,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.50899597,-46.74620697,,03/07/2024,"Vila Jaguara, São Paulo - SP, 05116, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.62615,-98.22222167,5,02/07/2024,"Oak Ct, Schertz, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,2.832775383,-60.69325458,13,01/07/2024,"CEBio 01 - Mecejana, Boa Vista - RR, 69304, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,10.51512864,-61.15081863,55204,29/06/2024,"Trinidad, Trinidad and Tobago, TT",Trinidad and Tobago,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.76285904,-107.4667536,722,28/06/2024,"80140 Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-11.4119188,-39.4653965,13,29/06/2024,"Valente - BA, 48890-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,11.25031752,-85.86976256,26,29/06/2024,"Las Pampas, San Juan del Sur, Nicaragua",Nicaragua,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,28/06/2024,"Av. Central No. 53 Int 7 y 8, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.95683,-99.497055,4,27/06/2024,"Calle del Tanque, Malinalco, Edo. Méx., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.42644699,-99.73673921,8,28/06/2024,"South Treadaway Area, Abilene, TX 79602, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,43.11550257,-6.889790632,8,27/06/2024,"Rozadas, 27113 Negueira de Muñiz, Lugo, España",Spain,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8049904,-118.1176643,31,24/06/2024,"5860 E Barbanell St, Long Beach, CA 90815, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-24.77965182,-65.4258367,11,27/06/2024,"Salta, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,-33.38639492,18.91219447,2,07/06/2024,"Riebeek-Kasteel, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.62615333,-98.222145,4,26/06/2024,"Oak Ct, Schertz, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,21/06/2024,"Av. Central No. 53 Int 7 y 8, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.703219,-101.183987,,24/06/2024,"Centro histórico de Morelia, 58000 Morelia, Mich., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.522854,-46.6615461,,24/06/2024,"São Paulo - SP, 01136, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.32693444,-97.71304744,8,27/10/2023,"Highland, Austin, TX 78752, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-19.95044133,-43.92916869,,24/06/2024,"Anchieta, Belo Horizonte - MG, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,15.1533021,76.9418713,17,24/06/2024,"18/14, KHB Colony, Nehru Colony, Babaneshwar Nagar, Ballari, Karnataka 583103, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.71649897,-97.32875097,,12/06/2024,"CORP CHRISTI, TX 78412, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-12.09164954,-77.06122488,210,23/06/2024,"Magdalena del Mar, Perú",Peru,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.425992,-98.8848785,12,22/06/2024,"Manzana 025, Los Reyes Tlamimilolpan, 56383 Chicoloapan de Juárez, Méx., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.84684444,-116.9926778,,22/06/2024,"Santee, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,埃及斑蚊 (埃及伊蚊),NA,23.47587,120.42495,35,22/06/2024,"臺灣島, 西區, CYI, TW",Taiwan,Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-23.35080445,150.5289109,212,22/06/2024,"Frenchville QLD 4701, Australia",Australia,Australia and New Zealand,Oceania
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,16.44419958,102.8137564,4,21/06/2024,"มหาวิทยาลัยขอนแก่น, อำเภอเมืองขอนแก่น, จ.ขอนแก่น, TH",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83875788,-90.5281454,1656,21/06/2024,"Av. Central No. 53 Int 7 y 8, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-30.98593315,30.27367238,4,20/06/2024,"Palm Beach, Port Edward, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.8000206,100.7299683,,19/06/2024,"Min Buri, Bangkok 10510, Thailand",Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.898544,-117.5072153,,18/06/2024,"Corona, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-21.750775,-41.35091333,6,18/06/2024,"Rua Epitácio Pessoa, Campos Dos Goytacazes, RJ, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.96186765,100.5618352,10,18/06/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.74161167,-80.30245833,4,18/06/2024,"SW 31st St, Miami, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.29302109,77.03222249,149,17/06/2024,"Anantapur, IN-AP, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-26.0875503,27.9922582,2781,15/02/2024,"Ferndale, Randburg, 2194, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.7816615,-97.3030592,3897,09/06/2024,"Fort Worth, TX 76111, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,24.57655367,-81.73894845,5,14/06/2024,"Key West, FL 33040, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,25.60266664,-80.32941666,34,28/05/2024,"Miami-Dade County, US-FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,31.42119444,-97.50753889,,12/06/2024,"Oglesby, TX 76561, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,26.10393495,-80.406025,2845,09/06/2024,"Poinciana Ct, Weston, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.765738333,103.708205,3,12/06/2024,"Sekolah Menengah Kebangsaan Sultan Alauddin, Gugusan Taib Andak, Johore, MY",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.07363129,-96.71809387,,11/06/2024,"Oaxaca, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.864655,-100.1365138,92,11/06/2024,"Tejupilco, Edo. Méx., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.342205,-116.876555,4,09/06/2024,"Cleveland National Forest, Palomar Mountain, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.97072208,-95.39524994,35,01/06/2024,"Harris County, US-TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,9.313328621,-79.78992462,5,04/06/2024,"Colón, Provincia de Colón, Panamá",Panama,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-1.223707428,36.8967776,2,07/06/2024,"Kasarani, Nairobi, Kenya",Kenya,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.86164167,-77.05858617,30,04/06/2024,"Pentagon Center, Arlington, VA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,38.92001333,-77.048325,18,06/06/2024,"Belmont Rd NW, Washington, DC, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,18.417792,-66.16998701,17,06/06/2024,"Puerto Rico, Bayamón, PR, US",Puerto Rico,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-27.59649873,-48.54681171,44133,06/06/2024,"Centro, Florianópolis - SC, 88020-080, Brasil",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,2.832468028,-60.69311142,,05/06/2024,"CEBio 01 - Mecejana, Boa Vista - RR, 69304, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,34.07194319,-117.1718182,75,16/05/2024,"Hunter Dr, Redlands, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-23.55821167,-46.703045,11,04/06/2024,"Rua Professor Moniz, São Paulo, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-30.3424061,-52.25069325,1223786,01/06/2024,,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.72517552,-95.48170438,,03/06/2024,"Harris County, US-TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-12.9994002,-38.4623396,14,02/06/2024,"Pituba, Salvador - BA, 41800, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.22828264,-96.90797727,8,02/06/2024,"Hayden Ln, Savannah, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.71594703,-117.1315714,220,01/06/2024,"Golden Hill, San Diego, CA 92102, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,1.696808333,104.1154945,4,30/05/2024,"Felda Lok Heng, Kota Tinggi, Johore, MY",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-3.200521531,36.71911748,,27/05/2024,"Arusha, TZ",United Republic of Tanzania,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,ยุงลายบ้าน,NA,13.8586653,100.5469573,10,30/05/2024,Thailand,Thailand,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-30.05394393,-51.08519507,,26/05/2024,"Vila Augusta, Viamão - RS, 94510, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,埃及斑蚊 (埃及伊蚊),NA,17.13895486,-62.62860996,4,10/05/2024,聖克里斯多福及尼維斯查爾斯敦,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,埃及伊蚊 · Yellow Fever Mosquito,NA,30.78094876,114.1015138,122,25/05/2024,"Wuhan, CN-HU, CN",China,Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.4951661,103.7384474,36,29/05/2024,"Kampung Muafakat, 81200 Johor Bahru, Johor, Malaysia",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,1.495003574,103.7385289,4,29/05/2024,"Institut Pendidikan Guru Kampus Temenggong Ibrahim, Johor Bahru, Johore, MY",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.81070093,-118.0028062,93,29/05/2024,"Los Angeles County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.78460833,-91.98232222,,28/05/2024,"El Tumbador, Guatemala",Guatemala,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.78461389,-91.98231389,,28/05/2024,"El Tumbador, Guatemala",Guatemala,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,4.962702971,103.0481967,4,28/05/2024,"Kampung Matang, Ajil, Terengganu, MY",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,26.1854475,-80.29871531,201,20/05/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,4.941173,-52.30030097,,08/05/2024,"Cayenne 97300, Guyane française",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.4452508,-60.88015462,,01/04/2024,"Sainte-Anne, Martinique",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.4452831,-60.88006857,4,28/03/2024,"Sainte-Anne, Martinique",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,5.183586111,-54.32409167,1,25/05/2024,"Sania, Apatou, Guyane française",French Guiana,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,32.65710658,-16.90955288,31,04/08/2023,"Funchal, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,32.65785267,-16.910379,244,04/08/2023,"Funchal, Portugal",Madeira Islands,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-25.79744492,28.29832267,200,24/05/2024,Serene Valley,South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.91865481,-90.12282472,5,24/05/2024,"West Riverside, New Orleans, LA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-8.401157678,115.1736746,25,24/05/2024,"Pulau Bali, Kabupaten Tabanan, Bali, ID",Indonesia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.65120388,-101.8568588,63,23/05/2024,"Texas, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-24.4014086,30.8192988,30,23/05/2024,"Maruleng, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.44531125,-60.87984796,,21/03/2024,"Sainte-Anne, Martinique",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.6840464,-117.1396952,4,22/05/2024,United States,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.65753497,-103.2206932,12,22/05/2024,"Jalisco, MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,-33.38635036,18.91230104,15,19/05/2024,"Riebeeck Kasteel, Riebeek-Kasteel, 7307, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-3.0953805,-59.99808833,4,22/05/2024,"Rua Cinco Cj H Angelin, Manaus, AM, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-21.68643692,-49.7520506,18,21/05/2024,"Res. Fortaleza, Lins - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-23.557195,-46.726845,4,21/05/2024,"Cidade Universitária Armando Salles de Oliveira, São Paulo, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-20.63958665,32.02389423,8,21/05/2024,"Senuko Airport, Zimbabwe ",Zimbabwe,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,2.650947222,102.4869972,,21/05/2024,"MF2P+VX, 73400 Gemencheh, Negeri Sembilan, Malaysia",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,14.44519961,-60.87994037,,12/03/2024,"Sainte-Anne, Martinique",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-12.06991386,-76.95050811,,20/05/2024,"F6, La Molina 15024, Peru",Peru,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,34.20011333,-118.3458783,4,18/05/2024,"N California St, Burbank, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,埃及斑蚊 (埃及伊蚊),NA,22.3726257,114.1135305,224,16/05/2024,香港荃灣海壩街70號,Hong Kong,Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-20.20832959,28.57740699,24,13/05/2024,"Bulawayo South, Bulawayo, Zimbabwe",Zimbabwe,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,1.4065334,103.7786351,390,11/07/2020,"Mandai Rd Track 15, Singapore",Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,9.421502537,-84.16252955,11,01/08/2006,"Provincia de Puntarenas, Quepos, El Cerro, Costa Rica",Costa Rica,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-7.752849579,110.5005035,2000,16/05/2024,Kecamatan Prambanan,Indonesia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-19.380855,-40.06880797,,15/05/2024,"Avenida Celeste Faé, 1164 - Nossa Sra. da Conceição, Linhares - ES, 29900-521, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.8851321,-98.5399742,,15/05/2024,"Wichita Falls, TX 76309, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,35.1712353,-106.7138928,,15/05/2024,"Volcano Cliffs, Albuquerque, NM, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.64757526,-46.62064333,4,15/05/2024,"Parque do Estado, São Paulo - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.75541143,-107.4727846,3425,13/05/2024,"Primer Cuadro, 80000 Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,-1.272771,36.79512497,,12/05/2024,"Lavington, Nairobi, Kenya",Kenya,Eastern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.50895878,-46.74622905,288,28/03/2024,"Vila Jaguara, São Paulo - SP, 05116, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.98301315,-100.1435776,,11/05/2024,"65573 Portal de las Salinas, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-12.26577465,-38.96156833,567,11/05/2024,"Serraria Brasil, Feira de Santana - BA, 40301-110, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-21.169476,-47.8490532,,08/05/2024,"FCFRP- USP - Bloco S - Sala 96A - Campus da Usp, Ribeirão Preto - SP, 14040-900, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,37.22259299,-120.584734,4,10/05/2024,"Merced County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,20.6636892,-105.2163137,34,10/05/2024,"Loma Bonita, 48290 Puerto Vallarta, Jal., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,2.38180464,103.7131694,1802,10/05/2024,"Jalan Merbah Mersing, Felda Nitar, 86700, Johor, Malaysia",Malaysia,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-22.56632097,17.08814597,,06/05/2024,"C3MQ+F8V, Windhoek, Namibia",Namibia,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-33.34633769,18.86821308,2,09/05/2024,"Riebeek West, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,24.68396545,55.74162818,17,08/05/2024,Abu Dhabi - United Arab Emirates,United Arab Emirates,Western Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-29.68887444,-51.46003335,2,08/05/2024,"Centro, Montenegro - RS, 95780-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.99044697,-99.24956897,,04/05/2024,"Cuernavaca, Mor., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.80049583,-96.92525255,23,07/05/2024,"E Shady Grove Rd, Irving, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.9114535,-98.4931295,15,07/05/2024,"Wichita Falls, TX 76301, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.56919743,-58.58624196,37,04/05/2024,"Billinghurst, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.5016529,-88.3856712,,05/05/2024,"Columbus, MS, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.77835833,-100.306655,78,28/04/2024,"Avenida las Torres, General Escobedo, N.L., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,23.27128333,-106.4485528,,06/05/2024,"Marina Mazatlán, Mazatlán, Sin., México",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue · Yellow Fever Mosquito,NA,-20.76094696,-42.86928568,205,05/05/2024,Avenida P H Rolfs,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-27.48534125,-58.81686507,35,04/05/2024,"García de Cossio, Corrientes, Corrientes, AR",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.90016076,-102.2568921,488,30/04/2024,"Rodolfo Landeros, 20170 Aguascalientes, Ags., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.99729666,-82.57108686,,03/05/2024,"Florida, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,17.1293731,-96.8020125,,03/05/2024,"San Lorenzo Cacaotepec, Oax., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,26.32493656,-98.08378704,5718,03/05/2024,"Texas, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.54885773,-98.7062951,1,28/04/2024,"Far West Side, San Antonio, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.90804431,-57.94846929,95,07/04/2024,"La Plata, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.5533521,-46.6749888,,02/05/2024,"Rua Cardeal Arcoverde, 92 - Pinheiros, São Paulo - SP, 88802-570, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Culicine Mosquitoes,NA,34.05230556,-118.3536361,,28/04/2024,"Central LA, Los Angeles, CA, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.1607495,-96.62093551,710,02/05/2024,"McKinney, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.16069753,-96.6194762,8,02/05/2024,"McKinney, TX 75069, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.81232261,-100.2429199,,27/04/2024,"Cosmópolis, Cdad. Apodaca, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-17.49923056,24.263125,,29/04/2024,"Epz, 20002, Katima Mulilo, Namibia",Namibia,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-25.55156111,-54.58146667,5,28/04/2024,"Foz do Iguaçu, State of Paraná, Brazil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,4.91385258,-52.26916085,357,28/04/2024,"Remire-Montjoly 97354, Guyane française",French Guiana,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,14.5687494,-90.45920155,35,30/04/2024,"Carretera a Piedra Parada - Cristo Rey, Guatemala City, Guatemala, GT",Guatemala,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.56746339,-98.47474881,12,29/04/2024,"Arboretum, San Antonio, TX, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-14.76489963,-64.964956,7,29/04/2024,"62PP+GJV, Loma Suárez, Bolivia",Bolivia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.75904667,-100.305205,60,29/04/2024,"Avenida Lerdo de Tejada, San Nicolás de los Garza, N.L., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,29.581481,-98.637893,,29/04/2024,"College Park, San Antonio, TX 78249, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.7359,-117.1060944,,29/04/2024,"Azalea - Hollywood Park, San Diego, CA 92105, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.77353817,-100.2486709,5,29/04/2024,"Los Pinos II, 66636 Cdad. Apodaca, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-15.9177538,-46.1348738,,29/04/2024,"Arinos, MG, 38680-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.7351587,-100.3082924,20,29/04/2024,"Anáhuac, San Nicolás de los Garza, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,4.944725028,-52.30568311,,29/04/2024,"Montabo, Cayenne, Guyane française",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.8002233,-100.3122083,8040,29/04/2024,"Cdad. Gral. Escobedo, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,25.77669614,-100.3195551,42,27/04/2024,"66055 Cdad. Gral. Escobedo, N.L., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,19.57319667,-98.98664667,12,28/04/2024,"Avenida el Caracol, Ecatepec, Edo. Méx., MX",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.56919743,-58.58624196,37,28/04/2024,"Billinghurst, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.60142366,-58.4433572,8440,28/04/2024,"Buenos Aires, CABA, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-23.60511519,-46.59322097,18,28/04/2024,"Avenida Comandante Taylor, São Paulo, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.58582216,-46.6485155,195,28/04/2024,"Av. Dr. Dante Pazzanese, 55 - Vila Mariana, São Paulo - SP, 04012-180, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.61273987,-58.45077395,196,28/04/2024,"Caballito, Cdad. Autónoma de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-25.45582094,-49.19838923,31,28/04/2024,"Rua Odaléa Costa Águas, Curitiba, PR, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,26.01071112,-111.3403167,16,27/04/2024,"Eco-Alianza Loreto A.C., Loreto, B.C.S., MX",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-14.77075629,-64.96972383,8,27/04/2024,"Departamento del Beni, BO",Bolivia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,42.03451654,12.64813944,35,27/04/2024,"Via Antonio Moscatelli, Mentana, Lazio, IT",Italy,Southern Europe,Europe
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,4.947901942,-52.30170017,850,27/04/2024,"Domaine du Montabo, Cayenne, GF",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-32.99692778,27.89457222,,27/04/2024,"Buffalo City, ZA-EC, ZA",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,17.43394693,78.36226624,20,27/04/2024,"2-48/284, First Floor, Urdu University Road Main Gate, across from Community, Telecom Nagar, Gachibowli, Hyderabad, Telangana 500032, India",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.60376906,-46.77271117,220,27/04/2024,"Parque Monte Alegre, Taboão da Serra - SP, 06756-070, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-3.091822167,-59.99303833,15,26/04/2024,"Avenida Ephigênio Salles, Manaus, AM, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-3.091858333,-59.99301167,13,26/04/2024,"Rua Estrela Alfa Centenário, Manaus, AM, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-3.091813833,-59.99307167,7,26/04/2024,"Rua Estrela Alfa Centenário, Manaus, AM, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.57287598,-117.7217636,386,21/09/2023,Aliso Viejo,United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-27.09424333,-48.91717549,72,26/04/2024,"Rua Sebastião Belli, Brusque, SC, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Aedes aegypti,NA,4.941120712,-52.29994981,110,26/04/2024,"Cayenne 97300, Guyane française",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,32.24533833,-110.8763883,6,26/04/2024,"N Sidney Pl, Tucson, AZ, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,184884,Pterygota,NA,Insetos alados,NA,-20.78191904,-41.68695554,25,20/04/2024,"Guaçuí, ES, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,30.1703462,-95.50996974,5,25/04/2024,"Sandpebble Dr, Spring, TX, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-29.75716944,31.06122806,,25/04/2024,"La Lucia, uMhlanga, 4153, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-17.7604429,-63.1846011,92,25/04/2024,"6RQ8+P5X, Santa Cruz de la Sierra, Bolivia",Bolivia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.62532042,-46.60825347,,25/04/2024,"Vila Moraes, São Paulo - SP, 04164, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,25.41688347,55.46800232,38,25/04/2024,عجمان,,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.89782167,-117.32702,13,24/04/2024,"Queen Anne Ln, Riverside, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,21.900605,-102.3045036,281,11/03/2024,"Tabachin, Las Arboledas, Aguascalientes, Ags., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-22.97143364,-47.00089264,100,23/04/2024,Valinhos,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.62208667,-58.37989667,22,22/04/2024,"Avenida San Juan, Buenos Aires, CABA, AR",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.753945,-117.867805,35,05/10/2023,"N Main St, Santa Ana, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,18.346325,-66.20813,4,21/04/2024,"Puerto Rico, Toa Alta, Puerto Rico, US",Puerto Rico,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del Dengue,NA,-31.65514262,-60.72404395,6,14/11/2023,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-15.81377609,-48.09777908,518,,"Ceilândia, Brasília - DF, 72210-280, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-36.75863307,-62.5024173,25,18/04/2024,"Casbas, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.849987,-55.1250175,,18/04/2024,"20000 La Capuera, Departamento de Maldonado, Uruguay",Uruguay,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.00527778,-47.87805556,,27/12/2022,"Jardim Sao Joao Batista, São Carlos - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-18.92153851,-48.32988666,2209,02/02/2024,"Uberlândia, BR-MG, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-26.92929357,-49.06005476,20,17/04/2024,"Garcia, Blumenau - SC, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del dengue,NA,-34.6108538,-58.4715637,1560,27/03/2024,"Villa General Mitre, CABA, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del Dengue,NA,-31.65512224,-60.72408847,6,06/04/2024,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del Dengue,NA,-31.65512224,-60.72408847,6,06/04/2024,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del Dengue,NA,-31.65512224,-60.72408847,6,03/04/2024,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito del Dengue,NA,-31.65512224,-60.72408847,6,03/04/2024,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-6.696870222,-35.53579096,1589,02/12/2023,Belém,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,24.7992367,-107.421863,,16/04/2024,"80100 Culiacán Rosales, Sin., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-32.96021951,-60.62774532,148,14/04/2024,"Distrito Centro, Rosario, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.82696041,-90.5309929,52,14/04/2024,"Fracciorama 2000, 24090 San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,18.02962809,-76.85047433,2833,15/04/2024,"Duhaney Park Kingston 20, Kingston, Jamaica",Jamaica,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.62078889,-58.51561389,,14/04/2024,"Monte Castro, Cdad. Autónoma de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,7.107681017,171.3784064,2655,13/08/1992,"North Pacific Ocean, Marshall Islands, MH",,,
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-23.54012833,-46.57883333,14,14/04/2024,"Rua Catiguá, São Paulo, SP, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-29.15507964,-51.18316904,73,13/04/2024,"Madureira, Caxias do Sul - RS, 95034-410, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-29.4642152,-56.81620494,9,13/04/2024,"Yapeyú, Corrientes, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.70238833,-82.397155,20,13/04/2024,"27th St SE, Ruskin, FL, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-26.2278802,-52.6705023,,31/03/2024,"Centro, Pato Branco - PR, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-34.790325,-55.932225,5,12/04/2024,"Ruta Interbalnearia General Líber Seregni, Ciudad de la Costa, Canelones, UY",Uruguay,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,24.814104,-107.450242,240,11/04/2024,Bacurimi,Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito Africano de la Fiebre Amarilla,NA,4.800696482,-75.72894276,17,22/02/2024,"Pereira, Risaralda, Colombia",Colombia,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-12.32723145,-38.75964928,168,10/04/2024,"Conceição do Jacuípe, BA, 44230-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.78197833,-117.80555,5,08/04/2024,"S Hewes St, Orange, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.18918897,-46.887126,,09/04/2024,"Vila Boaventura, Jundiaí - SP, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,33.78843369,-117.6971031,61,08/04/2024,"Orange County, US-CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-27.71162,-48.50219496,8,08/04/2024,"Ilha de Santa Catarina, Florianópolis, SC, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-28.30560333,-54.25773333,35,08/04/2024,"Rua Débora School, Santo Ângelo, RS, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,33.81015333,-117.82692,5,07/04/2024,"N Rembrandt Cir, Orange, CA, US",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.50895878,-46.74622905,288,15/03/2024,"Vila Jaguara, São Paulo - SP, 05116, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,19.83051085,-90.54957926,26,14/09/2023,"Prado, San Francisco de Campeche, Camp., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-34.61706997,-58.44042,,07/04/2024,"Caballito, Cdad. Autónoma de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,11.93746111,-86.05213611,,07/04/2024,"WWQX+7JQ, La Laguna, Nicaragua",Nicaragua,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-25.50148577,-49.23493587,202,01/04/2024,"Rua Bom Jesus de Iguape, Boqueirão, Curitiba - PR, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,комар жёлтой лихорадки,NA,-19.936775,-43.93130833,,12/02/2024,"Savassi, Belo Horizonte - MG, 30140, Бразилия",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.7037189,-58.58385075,6,05/04/2024,"Islas Malvinas 3020, Isidro Casanova, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,26.5174177,-78.67380924,35,04/04/2024,"Bishop Michael Eldon High School, Freeport, BS",Bahamas,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-26.2293695,-52.6673854,,24/03/2024,"La Salle, Pato Branco - PR, 85505, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-20.39839231,-43.51773408,,04/04/2024,"Ouro Preto, State of Minas Gerais, 35400-000, Brazil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.6469,-58.36916597,,03/04/2024,"Barracas, Cdad. Autónoma de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-23.6382658,-46.7044515,230,31/03/2024,"Parque Severo Gomes - R. Pires de Oliveira, 356 - Granja Julieta, São Paulo - SP, 04716-010, Brazil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-31.65505697,-60.724069,,30/03/2024,"Santa Fe de la Vera Cruz, Santa Fe, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,15.96611667,-61.662365,727,22/03/2024,"Trois-Rivières, Guadeloupe",Guadeloupe,Caribbean,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-31.20604839,-64.28571481,7711,02/04/2024,"QPV7+6V, Pajas Blancas, Córdoba, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,27.713552,-97.328896,,01/04/2024,"CORP CHRISTI, TX 78412, USA",United States of America,Northern America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Culicinae,NA,-34.89500667,-57.95278833,4,02/04/2024,"calle 37 entre 118 y 119, La Plata, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-33.34652436,18.86807095,2,01/04/2024,"Riebeeck West, South Africa",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-33.9571056,25.48726577,4,31/03/2024,"Eastern Cape, ZA",South Africa,Southern Africa,Africa
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-35.5594759,-57.98455072,7,01/04/2024,"La Esmeralda, Chascomús, Provincia de Buenos Aires, Argentina",Argentina,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,1.303702,103.7659312,161,01/04/2024,"154 W Coast Rd, Singapore 127371",Singapore,South-Eastern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,-34.8492186,-56.1969827,,31/03/2024,"Paso de las Duranas, 12900 Montevideo, Departamento de Montevideo, Uruguay",Uruguay,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.4665063,-97.4003801,6207,14/06/2023,"Tehuacán, Pue., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.4665063,-97.4003801,6207,14/06/2023,"Tehuacán, Pue., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,18.4665063,-97.4003801,6207,05/09/2023,"Tehuacán, Pue., México",Mexico,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-23.62370618,-46.77957729,4523,24/03/2024,Taboão da Serra,Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Yellow Fever Mosquito,NA,-29.154996,-51.183179,,31/03/2024,"Madureira, Caxias do Sul - RS, 95034-410, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-26.92929357,-49.06005476,20,30/03/2024,"Garcia, Blumenau - SC, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito-da-dengue,NA,-22.10632297,-45.062448,,26/03/2024,"São Lourenço, MG, 37470-000, Brasil",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,-22.96278754,-43.20373648,191,28/03/2024,"Avenida Epitácio Pessoa, Rio de Janeiro, RJ, BR",Brazil,South America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,13.9778279,-89.5639119,4569,15/12/2023,"Santa Ana, El Salvador",El Salvador,Central America,Americas
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,,NA,17.71054167,83.20500833,3,28/03/2024,"Visakhapatnam Main Road, Visakhapatnam, AP, IN",India,Southern Asia,Asia
+inaturalist,Aedes aegypti,155453,Aedes aegypti,NA,Mosquito africano de la fiebre amarilla,NA,10.438438,-64.180523,4,25/03/2024,"Cumaná, Sucre, VE",Venezuela,South America,Americas
